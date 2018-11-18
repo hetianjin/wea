@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">天气</string>
+    <string name="title_text">天气</string>
+    <string name="action_settings">setting</string>
+</resources>
