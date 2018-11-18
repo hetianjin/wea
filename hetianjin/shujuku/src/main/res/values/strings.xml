@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">便签</string>
+    <string name="new_title">标题:</string>
+    <string name="new_settitle">请输入便签标题~</string>
+    <string name="new_content">内容：</string>
+    <string name="new_inputcontent">请输便签入内容~</string>
+    <string name="menu_newnote">新建</string>
+    <string name="menu_exit">退出</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_fhui">返回</string>
+    <string name="menu_baocun">保存</string>
+    <string name="menu_search">查询</string>
+    <string name="button_jiacu">加粗</string>
+    <string name="button_beijing">背景</string>
+    <string name="button_tupian">图片</string>
+    <string name="button_xiahuaxian">下划线</string>
+    <string name="button_chaxun">查询</string>
+</resources>
